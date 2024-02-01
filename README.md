@@ -20,7 +20,6 @@ We're going to learn a bit about how to build and deploy Lit based web component
 This repo was made using Open-wc tooling. You can learn more about open-wc and how it can help you build Lit based web components at https://open-wc.org/ or run `npm init @open-wc` after installing node/npm in order to build a new web component based application like the one in this workshop!
 
 # Workshop tasks
-- Mark yourself as attending for club / my purposes of knowing #s - https://docs.google.com/forms/d/e/1FAIpQLScin6DiAYJSDLq8hw-0QxQqZOmxfAQa0moGTzvXYLUHyA_fXA/viewform?pli=1
 - Deck to start out: https://docs.google.com/presentation/d/1eOxHi0yTPQNiPP_GS1IiR3fCpW_8fChchBJ9cEqE5Ds/edit?usp=sharing
 
 ## Browser 101 / shameless plug
